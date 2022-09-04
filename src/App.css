@@ -1,0 +1,9 @@
+@font-face {
+    font-family: iransans;
+    src: url('../public/IRANSansX-Regular.woff');
+}
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
